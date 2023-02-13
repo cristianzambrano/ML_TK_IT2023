@@ -1,0 +1,4 @@
+#Mon Feb 13 11:51:16 ECT 2023
+base.0=/Users/cristian/Desktop/mlkit-android-master/vision/final/app/build/intermediates/dex/debug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
